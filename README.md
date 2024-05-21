@@ -2,10 +2,11 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Z&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Zhang&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![抖音](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.douyin.com/user/self)
-[![bilibili](https://img.shields.io/badge/video-YouTube-red)](https://space.bilibili.com/439066916?spm_id_from=333.788.0.0)
+[![抖音偶像练习生](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yellow)](https://www.douyin.com/user/self)
+
+[![Bilibili偶像练习生](https://img.shields.io/badge/Bilibili-%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F-blueviolet)](https://space.bilibili.com/439066916?spm_id_from=333.788.0.0)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
@@ -17,4 +18,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=偶像练习生
