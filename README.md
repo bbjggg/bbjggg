@@ -4,11 +4,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Zhang&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![抖音偶像练习生](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yellow)](https://www.douyin.com/user/self)
+[![抖音偶像练习生](https://img.shields.io/badge/Bilibili-%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F-yellow)](https://space.bilibili.com/439066916?spm_id_from=333.788.0.0)
 
 [![Bilibili偶像练习生](https://img.shields.io/badge/Bilibili-%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F-blueviolet)](https://space.bilibili.com/439066916?spm_id_from=333.788.0.0)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/爱好-摆烂-red)
 
